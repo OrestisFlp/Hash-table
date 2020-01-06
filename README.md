@@ -1,1 +1,1 @@
-# Develop a simple hash table
+Develop a simple hash table
